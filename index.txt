@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>La Estantería de Migue</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>La Estantería de Migue</h1>
+        <nav>
+            <ul>
+                <li><a href="#home">Inicio</a></li>
+                <li><a href="#about">Sobre Nosotros</a></li>
+                <li><a href="#menu">Menú</a></li>
+                <li><a href="#games">Biblioteca de Juegos</a></li>
+                <li><a href="#events">Eventos</a></li>
+                <li><a href="#contact">Contáctanos</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="home">
+        <h2>Bienvenidos a La Estantería de Migue</h2>
+        <p>¡El destino definitivo para los entusiastas de los juegos de mesa!</p>
+    </section>
+
+    <section id="about">
+        <h2>Sobre Nosotros</h2>
+        <p>Nuestra cafetería fue fundada con la pasión de crear un espacio divertido y acogedor donde todos puedan desconectarse y reconectar.</p>
+    </section>
+
+    <section id="menu">
+        <h2>Menú</h2>
+        <p>Explora nuestro delicioso menú con una variedad de snacks, comidas y bebidas.</p>
+    </section>
+
+    <section id="games">
+        <h2>Biblioteca de Juegos</h2>
+        <p>Nuestra extensa biblioteca incluye más de [Número] juegos de mesa que van desde clásicos favoritos hasta éxitos modernos.</p>
+    </section>
+
+    <section id="events">
+        <h2>Eventos</h2>
+        <p>Únete a nuestras noches de juegos semanales, torneos y eventos especiales!</p>
+    </section>
+
+    <section id="contact">
+        <h2>Contáctanos</h2>
+        <p>Visítanos en [Dirección], llámanos al [Número de Teléfono], o envíanos un email a [Correo Electrónico].</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 La Estantería de Migue</p>
+    </footer>
+
+    <script src="scripts.js"></script>
+</body>
+</html>
