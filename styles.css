@@ -88,3 +88,50 @@ footer {
     }
 }
 
+/* Additional styles for games section */
+#games {
+    padding: 50px 20px;
+    background-color: #e9f5db; /* Light green */
+}
+
+#games-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.game {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    margin: 10px;
+    padding: 20px;
+    width: 300px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+.game img {
+    max-width: 100%;
+    border-radius: 8px;
+}
+
+.game h3 {
+    color: #4b3f2f; /* Brown color */
+    font-size: 1.5em;
+    margin: 10px 0;
+}
+
+.game p {
+    font-size: 1em;
+    color: #666;
+}
+
+.game .info {
+    margin-top: 10px;
+}
+
+.game .info span {
+    display: block;
+    margin: 5px 0;
+}
